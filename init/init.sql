@@ -2,10 +2,10 @@
 -- ...
 
 -- Create a database (if not exists)
-CREATE DATABASE IF NOT EXISTS your_database_name;
+CREATE DATABASE IF NOT EXISTS hw9;
 
 -- Use the created database
-USE your_database_name;
+USE hw9;
 
 -- Create a table for users
 CREATE TABLE IF NOT EXISTS users (
