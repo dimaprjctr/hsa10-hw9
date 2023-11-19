@@ -4,7 +4,7 @@
 
 # 1. Run mysql in docker:
 Download backup file by link: https://mega.nz/file/do93jKqY#aJhkdwXPXCzZztwaqO1Y3RwFHdmV3lsrw-wCYCEpCtE
-or 
+or use init/init.sql to generate
 
 gunzip backup.sql.gz && docker-compose up -d
 
